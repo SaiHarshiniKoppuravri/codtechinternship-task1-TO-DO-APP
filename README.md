@@ -1,6 +1,7 @@
 # codtechinternship-task1-TO-DO-APP
 #### Name:KOPPURAVURI DEVI VENKATA SAI HARSHINI
 #### Company:CODTECH IT SOLUTIONS
+#### ID:CT4WD3345
 #### Domain:Web Development
 #### Duration:JUNE 25TH,2024 to JULY 25TH,2024
 ## Project Name
@@ -13,4 +14,6 @@
 ## Features
 * Add tasks to a list.
 * Delete tasks from the list.
+## Sceen shot of my project output
 
+![Screenshot (7)](https://github.com/user-attachments/assets/1f376261-997f-4882-8177-e532761058ca)
